@@ -1,0 +1,3 @@
+rootProject.name = 'OSI.client.server2'
+include 'server'
+
